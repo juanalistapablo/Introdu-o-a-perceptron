@@ -10,7 +10,7 @@ Este repositório contém os trabalhos desenvolvidos para a disciplina de Fundam
 
 Localização: [apresentation/](./apresentation/introdução%20ao%20Perceptron%20-%20P2%20de%20Redes%20Neurais.pptx)
 
-Aqui você vai encontrar um PPTX com a teoria do Perceptron, desde de sua concepção e inspirações até sua evolução.
+Aqui você vai encontrar um PPTX com a teoria do Perceptron, desde sua concepção e inspirações até sua evolução.
 
 ### Perceptron para Classificação de Flores Iris
 
