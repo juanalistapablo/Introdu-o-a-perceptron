@@ -10,7 +10,7 @@ Este repositório contém os trabalhos desenvolvidos para a disciplina de Fundam
 
 Localização: [exercise/Cópia_de_iris_modelo.ipynb](./exercise/Cópia_de_iris_modelo.ipynb)
 
-Neste notebook, você encontrará a implementação de um Perceptron com o objetivo de separar duas classes de flores do famoso dataset Iris. O exercício foca na aplicação do algoritmo para problemas de classificação binária.
+Neste notebook, é proposto a implementação de um Perceptron para separar duas classes de flores do famoso dataset Iris. O exercício foca na aplicação do algoritmo para problemas de classificação binária.
 
 ### Perceptron para Problemas AND e OR
 
